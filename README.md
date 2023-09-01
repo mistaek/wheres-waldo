@@ -1,9 +1,13 @@
 # wheres-waldo
 
 Python program to find Waldo. 
+
+Input image:
+![image](https://github.com/mistaek/wheres-waldo/blob/master/images/1.jpg?raw=true)
 Example result:
-![image](https://github.com/mistaek/wheres-waldo/assets/61148858/0ac7bb50-7904-48b3-aee0-23fba917b16b)
+![image](https://cdn.discordapp.com/attachments/593614605142458379/1126664484858118244/image.png)
 
 
 
-Lots of improvements to be made, but I decided to shelf the project due to how long it takes to retrain the model with every change. 
+
+Still a massive amount of stuff to improve, but I decided to shelf the project due to how long it takes to retrain the model with every change. 
